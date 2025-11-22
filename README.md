@@ -82,6 +82,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Naveen-Kumar-Reddy-27/Naveen-Kumar-Reddy-27/output/snake.svg" alt="Snake animation" />
 
-###
